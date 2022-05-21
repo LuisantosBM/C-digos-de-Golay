@@ -1,4 +1,4 @@
-# Teor-a-de-c-digo
+# C-digo-de-Golay
 Implementación de códigos perfectos en Octave/Matlab
 
 Archivo principal: Golay.m
