@@ -1,4 +1,4 @@
-# Código de Golay
+# Códigos de Golay
 Implementación de códigos perfectos en Octave/Matlab
 
 Archivo principal: Golay.m
